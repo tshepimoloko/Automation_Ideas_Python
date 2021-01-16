@@ -7,4 +7,4 @@ Browsing Reddit to find the ultimate Python automation ideas and then building t
 
 - Finance Automation
 
-- 
+- Lights Control Automation
