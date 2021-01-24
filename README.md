@@ -10,3 +10,5 @@ Browsing Reddit to find the ultimate Python automation ideas and then building t
 - Lights Control Automation
 
 - Job search Automation
+
+- 
